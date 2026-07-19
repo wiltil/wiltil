@@ -7,7 +7,9 @@
 - 🐧 Comfortable with **Linux** & **Bash basics**  
 - 🔒 Ranked ~25,000 on **TryHackMe**  
 - 💬 Ask me about **ethical hacking, penetration testing, and security research**  
-(Also, I am allowing all pull requests on my free achievement for github, you can contribute and i will accept.)
+---
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![Open Repo](https://img.shields.io/badge/free-achievement-open-blue.svg)
 ---
 
 ## 🛠 Skills & Tools
