@@ -13,7 +13,7 @@
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
-Anyone can fork, edit, and submit a pull request — **everything will be merged.  
+Anyone can fork, edit, and submit a pull request — everything will be merged.  
 This repo is open for fun, experiments, and earning GitHub activity badges.
 ---
 
