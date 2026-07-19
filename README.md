@@ -1,6 +1,8 @@
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/matrix.gif" alt="Matrix animation" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix animation" />
 </p>
+
 
 
 # 👋 Hi, I'm Willgax  
