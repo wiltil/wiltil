@@ -6,9 +6,10 @@
 +        ───▐██──▀▀──▀▀──██▌─── 
 +        ──▄████▄──▐▌──▄████▄── 
 +        ───────────▀────────── 
+```
 
 # 👋 Hi, I'm Willgax  
-```
+
 🎓 Beginner Cybersecurity Student | 🛡️ Ethical Hacking Enthusiast  
 
 - 📜 Certified: **CCST** & **AZ-900**  
