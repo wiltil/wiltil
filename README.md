@@ -1,30 +1,3 @@
-# 🟢 Matrix Effect
-
-<p align="center">
-  <style>
-    .matrix {
-      color: #00ff00;
-      font-family: monospace;
-      font-size: 14px;
-      white-space: pre;
-      overflow: hidden;
-      animation: fall 5s linear infinite;
-    }
-    @keyframes fall {
-      0%   { transform: translateY(-100%); }
-      100% { transform: translateY(100%); }
-    }
-  </style>
-
-  <div class="matrix">
-    0101010101010101010101010101010101010101<br>
-    1010101010101010101010101010101010101010<br>
-    0101010101010101010101010101010101010101<br>
-    1010101010101010101010101010101010101010<br>
-    0101010101010101010101010101010101010101<br>
-    1010101010101010101010101010101010101010<br>
-  </div>
-</p>
 
 
 # 👋 Hi, I'm Willgax  
