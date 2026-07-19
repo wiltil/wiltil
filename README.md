@@ -8,7 +8,7 @@
 - 🔒 Ranked ~25,000 on **TryHackMe**  
 - 💬 Ask me about **ethical hacking, penetration testing, and security research**  
 ---
-✨ I accept **all contributions** on my repo:  
+# ✨ I accept **all contributions** on my repo:  
 👉 [Free Achievement](https://github.com/wiltil/free_achievement_for_github)
 
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
