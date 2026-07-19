@@ -8,8 +8,13 @@
 - 🔒 Ranked ~25,000 on **TryHackMe**  
 - 💬 Ask me about **ethical hacking, penetration testing, and security research**  
 ---
+✨ I accept **all contributions** on my repo:  
+👉 [Free Achievement](https://github.com/avinash/free-achievement)
+
 ![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
-![Open Repo](https://img.shields.io/badge/free-achievement-open-blue.svg)
+
+Anyone can fork, edit, and submit a pull request — **everything will be merged**.  
+This repo is open for fun, experiments, and earning GitHub activity badges.
 ---
 
 ## 🛠 Skills & Tools
