@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Matrix animation" />
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Matrix rain green code" />
 </p>
 
 
